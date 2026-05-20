@@ -17,6 +17,10 @@ A production-grade harness engineering skill for AI coding agents. It helps you 
 
 The skill files live in the repository at [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 To use it with Claude Code, copy the `harness-creator/` directory into your project's skill path, or point your agent at the SKILL.md file.
 
 ### Reference Patterns
@@ -40,6 +44,7 @@ The skill bundles ready-to-use templates:
 - `feature-list.json` — JSON Schema + example feature list
 - `init.sh` — Standard initialization script
 - `progress.md` — Session progress log template
+- `session-handoff.md` — Session handoff template
 
 ### How This Skill Was Built
 

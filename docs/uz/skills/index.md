@@ -17,6 +17,10 @@ AI kod yozuvchi agentlari uchun ishlab chiqarish darajasidagi (production-grade)
 
 Koʻnikma fayllari repozitoriyning [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator) qismida joylashgan.
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 Undan Claude Code bilan foydalanish uchun, `harness-creator/` jildini loyihangizning koʻnikmalar (skills) yoʻliga koʻchiring yoki agentingizni SKILL.md fayliga yoʻnaltiring.
 
 ### Maʼlumotnoma andozalari (Reference Patterns)
@@ -40,6 +44,7 @@ Koʻnikma oʻz ichiga foydalanishga tayyor andozalarni oladi:
 - `feature-list.json` — JSON Schema + namunaviy funksiyalar roʻyxati (example feature list)
 - `init.sh` — Standart inisializatsiya skripti
 - `progress.md` — Sessiya jarayoni jurnali (progress log) andozasi
+- `session-handoff.md` — Session handoff template
 
 ### Ushbu koʻnikma qanday yaratilgan (How This Skill Was Built)
 

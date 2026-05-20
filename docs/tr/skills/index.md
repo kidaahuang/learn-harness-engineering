@@ -17,6 +17,10 @@ Yapay zeka kod yazma ajanları için üretim seviyesinde bir harness mühendisli
 
 Yetenek dosyaları depoda şu adreste yer alır: [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 Claude Code ile kullanmak için `harness-creator/` dizinini projenizin yetenek yoluna kopyalayın ya da ajanınızı SKILL.md dosyasına yönlendirin.
 
 ### Referans desenleri
@@ -40,6 +44,7 @@ Yetenek, doğrudan kullanılabilen şablonlar içerir:
 - `feature-list.json` — JSON Schema + örnek özellik listesi
 - `init.sh` — Standart başlatma betiği
 - `progress.md` — Oturum ilerleme günlüğü şablonu
+- `session-handoff.md` — Session handoff template
 
 ### Bu yetenek nasıl geliştirildi
 

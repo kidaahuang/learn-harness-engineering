@@ -17,6 +17,10 @@
 
 技能檔案位於倉庫的 [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator) 目錄。
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 在 Claude Code 中使用時，將 `harness-creator/` 目錄複製到你專案的技能路徑下，或讓 agent 直接讀取 SKILL.md 檔案即可。
 
 ### 參考模式
@@ -40,6 +44,7 @@
 - `feature-list.json` — JSON Schema + 功能列表示例
 - `init.sh` — 標準初始化腳本
 - `progress.md` — 會話進度日誌範本
+- `session-handoff.md` — Session handoff template
 
 ### 開發過程
 

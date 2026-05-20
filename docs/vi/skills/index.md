@@ -17,6 +17,10 @@ Một kỹ năng xây dựng harness cấp độ thực tế (production-grade) 
 
 Các tệp kỹ năng nằm trong kho lưu trữ tại [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 Để sử dụng nó với Claude Code, hãy sao chép thư mục `harness-creator/` vào đường dẫn kỹ năng trong dự án của bạn, hoặc chỉ định tệp SKILL.md cho agent của bạn.
 
 ### Các Mẫu Tham Khảo (Reference Patterns)
@@ -40,6 +44,7 @@ Kỹ năng này đi kèm với các mẫu sẵn sàng sử dụng:
 - `feature-list.json` — JSON Schema + danh sách tính năng mẫu
 - `init.sh` — Kịch bản khởi tạo tiêu chuẩn
 - `progress.md` — Mẫu nhật ký tiến độ phiên làm việc
+- `session-handoff.md` — Session handoff template
 
 ### Kỹ năng này được Xây dựng như thế nào
 

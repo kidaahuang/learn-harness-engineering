@@ -25,7 +25,7 @@ Learn Harness Engineering là một khóa học dành riêng cho kỹ thuật li
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **Bắt đầu nhanh?** Skill [`skills/harness-creator/`](../../skills/) có thể giúp bạn tạo nhanh một harness cấp sản xuất (AGENTS.md, feature lists, init.sh, quy trình kiểm chứng) cho dự án của riêng bạn chỉ trong vài phút.
+> **Bắt đầu nhanh?** Skill [`skills/harness-creator/`](../../skills/harness-creator/) có thể giúp bạn tạo nhanh một harness cấp sản xuất (AGENTS.md, feature lists, init.sh, quy trình kiểm chứng) cho dự án của riêng bạn chỉ trong vài phút.
 
 ---
 

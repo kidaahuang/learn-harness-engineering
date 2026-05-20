@@ -17,6 +17,10 @@ Ein produktionsreifer harness-engineering-Skill für KI-Coding-Agenten. Er hilft
 
 Die Skill-Dateien liegen im Repository unter [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 Um ihn mit Claude Code zu verwenden, kopiere das Verzeichnis `harness-creator/` in den Skill-Pfad deines Projekts oder zeige deinen Agenten direkt auf die Datei SKILL.md.
 
 ### Referenzmuster
@@ -40,6 +44,7 @@ Der Skill enthält sofort nutzbare Vorlagen:
 - `feature-list.json` — JSON Schema und Beispiel-Feature-Liste
 - `init.sh` — Standard-Initialisierungsskript
 - `progress.md` — Vorlage für Session-Fortschrittslogs
+- `session-handoff.md` — Session handoff template
 
 ### Wie dieser Skill gebaut wurde
 

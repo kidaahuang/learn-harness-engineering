@@ -25,7 +25,7 @@ Learn Harness Engineering est un cours dédié à l'ingénierie des agents de co
 - [Anthropic : Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **Démarrage rapide ?** Le skill [`skills/harness-creator/`](../../skills/) peut vous aider à générer un harness de niveau production (AGENTS.md, listes de fonctionnalités, init.sh, flux de vérification) pour votre propre projet en quelques minutes.
+> **Démarrage rapide ?** Le skill [`skills/harness-creator/`](../../skills/harness-creator/) peut vous aider à générer un harness de niveau production (AGENTS.md, listes de fonctionnalités, init.sh, flux de vérification) pour votre propre projet en quelques minutes.
 
 ---
 

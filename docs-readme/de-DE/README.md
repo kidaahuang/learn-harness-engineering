@@ -25,7 +25,7 @@ Learn Harness Engineering ist ein Kurs, der sich der Entwicklung von KI-Coding-A
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **Schneller Einstieg?** Der Skill [`skills/harness-creator/`](../../skills/) kann Ihnen helfen, in Minuten ein produktionsreifes Harness (AGENTS.md, Feature-Listen, init.sh, Verifizierungs-Workflows) für Ihr eigenes Projekt zu erstellen.
+> **Schneller Einstieg?** Der Skill [`skills/harness-creator/`](../../skills/harness-creator/) kann Ihnen helfen, in Minuten ein produktionsreifes Harness (AGENTS.md, Feature-Listen, init.sh, Verifizierungs-Workflows) für Ihr eigenes Projekt zu erstellen.
 
 ---
 

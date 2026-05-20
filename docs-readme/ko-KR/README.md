@@ -25,7 +25,7 @@ Learn Harness Engineering은 AI 코딩 에이전트의 엔지니어링에 집중
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **빠른 시작?** [`skills/harness-creator/`](../../skills/) 스킬을 사용하면 몇 분 만에 여러분의 프로젝트에 프로덕션급 하니스(AGENTS.md, 기능 목록, init.sh, 검증 워크플로우)를 스캐폴딩할 수 있습니다.
+> **빠른 시작?** [`skills/harness-creator/`](../../skills/harness-creator/) 스킬을 사용하면 몇 분 만에 여러분의 프로젝트에 프로덕션급 하니스(AGENTS.md, 기능 목록, init.sh, 검증 워크플로우)를 스캐폴딩할 수 있습니다.
 
 ---
 

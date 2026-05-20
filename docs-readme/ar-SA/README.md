@@ -25,7 +25,7 @@
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **تبدأ سريعاً؟** مهارة [`skills/harness-creator/`](../../skills/) يمكن أن تساعدك في إنشاء حزام بمستوى الإنتاج (AGENTS.md، قوائم الميزات، init.sh، سير عمل التحقق) لمشروعك الخاص في دقائق.
+> **تبدأ سريعاً؟** مهارة [`skills/harness-creator/`](../../skills/harness-creator/) يمكن أن تساعدك في إنشاء حزام بمستوى الإنتاج (AGENTS.md، قوائم الميزات، init.sh، سير عمل التحقق) لمشروعك الخاص في دقائق.
 
 ---
 

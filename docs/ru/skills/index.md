@@ -17,6 +17,10 @@ Production-grade скил по harness-инжинирингу для AI-аген
 
 Файлы скила лежат в репозитории по пути [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 Чтобы использовать его с Claude Code, скопируйте директорию `harness-creator/` в путь скилов вашего проекта или направьте агент на файл SKILL.md.
 
 ### Референсные паттерны
@@ -40,6 +44,7 @@ Production-grade скил по harness-инжинирингу для AI-аген
 - `feature-list.json` — JSON Schema + пример списка фич
 - `init.sh` — стандартный инициализационный скрипт
 - `progress.md` — шаблон лога прогресса сессии
+- `session-handoff.md` — Session handoff template
 
 ### Как был построен этот скил
 

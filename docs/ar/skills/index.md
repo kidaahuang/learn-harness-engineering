@@ -17,6 +17,10 @@
 
 توجد ملفات المهارة في المستودع ضمن [`skills/harness-creator/`](https://github.com/walkinglabs/learn-harness-engineering/tree/main/skills/harness-creator).
 
+```bash
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
+```
+
 لاستخدامها مع Claude Code، انسخ مجلد `harness-creator/` إلى مسار المهارات في مشروعك، أو وجه الوكيل إلى ملف SKILL.md.
 
 ### أنماط مرجعية
@@ -40,6 +44,7 @@
 - `feature-list.json` — JSON Schema ومثال قائمة ميزات
 - `init.sh` — سكربت تهيئة قياسي
 - `progress.md` — قالب سجل تقدم الجلسة
+- `session-handoff.md` — Session handoff template
 
 ### كيف بُنيت هذه المهارة
 

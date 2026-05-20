@@ -18,7 +18,7 @@ Production harness engineering skill for AI coding agents, distilled from Learn 
 ## Installation
 
 ```bash
-npx skills add walkinglabs/learn-harness-engineering
+npx skills add walkinglabs/learn-harness-engineering --skill harness-creator
 ```
 
 Or manually copy the `skills/harness-creator/` directory to your skill path.
@@ -78,7 +78,7 @@ User: "My agent still breaks things even with AGENTS.md"
 Skill will:
 1. Request current AGENTS.md content
 2. Score each of 5 subsystems (1-5 scale)
-3. Identify lowest-scoring subsystem as bottleneck
+3. Identify the lowest-scoring subsystem as the highest-priority improvement area
 4. Provide prioritized improvement plan with concrete steps
 ```
 
@@ -122,7 +122,7 @@ This skill does NOT cover:
 - `templates/progress.md` — Session progress log template
 - `templates/session-handoff.md` — Handoff structure
 
-## EvaluationFramework
+## Evaluation Framework
 
 5 test cases in `evals/evals.json`:
 1. **Minimal Harness Creation** — Full setup from scratch

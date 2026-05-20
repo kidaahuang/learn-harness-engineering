@@ -25,7 +25,7 @@ Learn Harness Engineering — KI kod yozuvchi agentlarini ishlab chiqishga bagʻ
 - [Anthropic: Harness design for long-running application development](https://www.anthropic.com/engineering/harness-design-long-running-apps)
 - [Awesome Harness Engineering](https://github.com/walkinglabs/awesome-harness-engineering)
 
-> **Tezkor boshlash?** [`skills/harness-creator/`](../../skills/) skillʼi sizga oʻz loyihangiz uchun daqiqalar ichida ishlab chiqarish darajasidagi harness (AGENTS.md, funksiya roʻyxatlari, init.sh, tekshiruv oqimlari) yaratishga yordam beradi.
+> **Tezkor boshlash?** [`skills/harness-creator/`](../../skills/harness-creator/) skillʼi sizga oʻz loyihangiz uchun daqiqalar ichida ishlab chiqarish darajasidagi harness (AGENTS.md, funksiya roʻyxatlari, init.sh, tekshiruv oqimlari) yaratishga yordam beradi.
 
 ---
 

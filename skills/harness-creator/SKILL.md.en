@@ -78,7 +78,7 @@ For each subsystem, score 1-5:
 - **2**: Weak, incomplete, inconsistently applied
 - **1**: Missing or actively harmful
 
-Identify the lowest-scoring subsystem — that's the bottleneck. Focus improvement efforts there first.
+Identify the lowest-scoring subsystem as the highest-priority improvement area. Treat it as a candidate bottleneck, then confirm with failure logs, verification evidence, and task outcomes before calling it the bottleneck.
 
 ### Phase 3: Design
 
